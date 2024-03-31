@@ -47,6 +47,6 @@
 <h2>Troubleshooting</h2>
     <p>If you encounter any issues while using CoolPlay Kabul, try the following troubleshooting steps:</p>
     <ol>
-        <li><strong>Supported Music Formats:</strong> Make sure that your music files are in a supported format and accessible from the specified file paths.</li>
+        <li><strong>Supported Music Formats:</strong> Make sure that your music files are in a supported format (mp3 & wav) and accessible from the specified file paths.</li>
         <li><strong>Error Messages:</strong> If you encounter any errors or unexpected behavior, refer to the console output for error messages and contact the developer to fix the bug.</li>
     </ol>
