@@ -56,6 +56,11 @@
         <li><strong>Supported Music Formats:</strong> Make sure that your music files are in a supported format (mp3 & wav) and accessible from the specified file paths.</li>
         <li><strong>Error Messages:</strong> If you encounter any errors or unexpected behavior, refer to the console output for error messages and contact the developer to fix the bug.</li>
     </ol>
+Feedback and Support: For any inquiries, feedback, or bug reports, feel free to contact the developer at solutionsstudioinbox@gmail.com.
+<h2>About</h2>
+<p>Developed by Mohammad Naim Elham.
+Version: 1.1 (March 2024).
+Feedback and Support: For any inquiries, feedback, or bug reports, feel free to contact the developer at solutionsstudioinbox@gmail.com.</p>
 
 <h2> Get CoolPlay Kabul from GUMROAD </h2>
 <a href="https://naimelham.gumroad.com/l/gztkt">GET THIS PRODUCT</a>
