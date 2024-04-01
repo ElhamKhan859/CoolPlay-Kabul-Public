@@ -59,3 +59,4 @@
 
 <h2> Get CoolPlay Kabul from GUMROAD </h2>
 <a href="https://naimelham.gumroad.com/l/gztkt">GET THIS PRODUCT</a>
+<p>Trial version is included in this repository. The trial version closes automatically if you add files that are longer than 30 seconds</p>
