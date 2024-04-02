@@ -3,7 +3,7 @@
 
 
 <h2>Introduction</h2>
-    <p>Welcome to CoolPlay Kabul, your versatile music player application designed to cater to your music scheduling needs with ease and efficiency. Whether you're organizing events, studying, or simply enjoying your favorite tunes, CoolPlay Kabul offers an intuitive interface to manage your music schedule and play your favorite tracks hassle-free.</p>
+    <p>CoolPlay Kabul is a versatile music player application designed to simplify your music listening experience. With its intuitive interface, users can effortlessly manage playlists, play, pause, and stop music tracks, and keep track of playback time. Notably, CoolPlay Kabul also offers a unique music scheduling feature, allowing users to schedule specific tracks to play at designated times. Whether you're creating a personalized playlist or organizing music for an event, CoolPlay Kabul provides the tools you need for seamless music management and scheduling.</p>
 <h2>Interface Overview</h2>
 
 ![Alt Text](Snap.gif)
