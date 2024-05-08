@@ -61,7 +61,7 @@ Feedback and Support: For any inquiries, feedback, or bug reports, feel free to 
 <h2>About</h2>
 <p>Developed by Mohammad Naim Elham.
 Version: 1.1 (March 2024).
-Feedback and Support: For any inquiries, feedback, or bug reports, feel free to contact the developer at solutionsstudioinbox@gmail.com.</p>
+Feedback and Support: For any inquiries, feedback, or bug reports, feel free to contact the developer at solutionsstudioinbox@gmail.com. You may contact developer to help you build your own app</p>
 
 <h2> Get CoolPlay Kabul from GUMROAD </h2>
 <a href="https://naimelham.gumroad.com/l/gztkt">GET THIS PRODUCT</a>
